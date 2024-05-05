@@ -32,6 +32,6 @@
 
 ## Автор
 
-Автор: Vladimir Bryzgalov
+Автор: Vladimir Bryzgalov.
 Контактная информация: vladimirbryzgalov00@gmail.com
 
